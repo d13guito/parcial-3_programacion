@@ -12,3 +12,4 @@ El código sirve como ejemplo básico de cómo modelar objetos del mundo real co
 # Recursos utilizados
 - Phyton V 3.13+
 - Visual Studio Code
+- Github
