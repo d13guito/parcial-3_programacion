@@ -6,10 +6,7 @@ Este código implementa una clase Lámpara en Python que modela el comportamient
 Al crear una instancia de esta clase, obtenemos un objeto lámpara independiente que mantiene su propio estado, con lo que se demuestran los conceptos fundamentales de programacion orientada a objetos,tales como encapsulamiento (protección del estado interno) y abstracción (interfaz simple para interactuar con el objeto). 
 El código sirve como ejemplo básico de cómo modelar objetos del mundo real con sus propiedades y comportamientos en Python.
 
-- Asi mismo en este codigo se hizo uso de los siguientes comandos
-Uso de clases, métodos (__init_, encender(), apagar()).
-Variables de instancia (self.encendida).
-Mensajes de salida básicos (print).
+- Asi mismo en este codigo se hizo uso de uso de clases, métodos (__init_, encender(), apagar()), Variables de instancia (self.encendida) y Mensajes de salida básicos (print).
 
 
 # Recursos utilizados
